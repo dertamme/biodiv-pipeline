@@ -1,0 +1,2982 @@
+{
+    "BP PLC": {
+        "done": {
+            "new": 19,
+            "repeated": 0,
+            "repeated_details": [],
+            "new_percent": 100.0,
+            "repeated_percent": 0.0
+        },
+        "planned": {
+            "new": 3,
+            "repeated": 0,
+            "repeated_details": [],
+            "smart_count": 0,
+            "smart_statements_details": [],
+            "new_percent": 100.0,
+            "repeated_percent": 0.0,
+            "smart_percent": 0.0
+        }
+    },
+    "MONDI PLC": {
+        "done": {
+            "new": 103,
+            "repeated": 0,
+            "repeated_details": [],
+            "new_percent": 100.0,
+            "repeated_percent": 0.0
+        },
+        "planned": {
+            "new": 26,
+            "repeated": 0,
+            "repeated_details": [],
+            "smart_count": 0,
+            "smart_statements_details": [],
+            "new_percent": 100.0,
+            "repeated_percent": 0.0,
+            "smart_percent": 0.0
+        }
+    },
+    "BELLWAY PLC": {
+        "done": {
+            "new": 2,
+            "repeated": 0,
+            "repeated_details": [],
+            "new_percent": 100.0,
+            "repeated_percent": 0.0
+        },
+        "planned": {
+            "new": 2,
+            "repeated": 0,
+            "repeated_details": [],
+            "smart_count": 0,
+            "smart_statements_details": [],
+            "new_percent": 100.0,
+            "repeated_percent": 0.0,
+            "smart_percent": 0.0
+        }
+    },
+    "RECKITT BENCKISER GROUP PLC": {
+        "done": {
+            "new": 7,
+            "repeated": 0,
+            "repeated_details": [],
+            "new_percent": 100.0,
+            "repeated_percent": 0.0
+        },
+        "planned": {
+            "new": 1,
+            "repeated": 0,
+            "repeated_details": [],
+            "smart_count": 0,
+            "smart_statements_details": [],
+            "new_percent": 100.0,
+            "repeated_percent": 0.0,
+            "smart_percent": 0.0
+        }
+    },
+    "BARCLAYS PLC": {
+        "done": {
+            "new": 1,
+            "repeated": 0,
+            "repeated_details": [],
+            "new_percent": 100.0,
+            "repeated_percent": 0.0
+        },
+        "planned": {
+            "new": 0,
+            "repeated": 0,
+            "repeated_details": [],
+            "smart_count": 0,
+            "smart_statements_details": [],
+            "new_percent": 0.0,
+            "repeated_percent": 0.0,
+            "smart_percent": 0.0
+        }
+    },
+    "IBERDROLA SA": {
+        "done": {
+            "new": 58,
+            "repeated": 0,
+            "repeated_details": [],
+            "new_percent": 100.0,
+            "repeated_percent": 0.0
+        },
+        "planned": {
+            "new": 13,
+            "repeated": 0,
+            "repeated_details": [],
+            "smart_count": 1,
+            "smart_statements_details": [
+                {
+                    "statement": "Goal: Adjustment of 234,000 pylons at distribution lines to protect birds from electrocution between 2018 and 2025 (Aleteo project).",
+                    "analysis": {
+                        "smart": true,
+                        "specific": "Adjustment of 234,000 pylons at distribution lines to protect birds from electrocution",
+                        "measurable": "234,000 pylons",
+                        "achievable": "Adjustment of ... pylons at distribution lines",
+                        "relevant": "to protect birds from electrocution",
+                        "time": "between 2018 and 2025"
+                    }
+                }
+            ],
+            "new_percent": 100.0,
+            "repeated_percent": 0.0,
+            "smart_percent": 7.69
+        }
+    },
+    "RWE AG": {
+        "done": {
+            "new": 39,
+            "repeated": 0,
+            "repeated_details": [],
+            "new_percent": 100.0,
+            "repeated_percent": 0.0
+        },
+        "planned": {
+            "new": 1,
+            "repeated": 0,
+            "repeated_details": [],
+            "smart_count": 0,
+            "smart_statements_details": [],
+            "new_percent": 100.0,
+            "repeated_percent": 0.0,
+            "smart_percent": 0.0
+        }
+    },
+    "SALMAR ASA": {
+        "done": {
+            "new": 3,
+            "repeated": 0,
+            "repeated_details": [],
+            "new_percent": 100.0,
+            "repeated_percent": 0.0
+        },
+        "planned": {
+            "new": 0,
+            "repeated": 0,
+            "repeated_details": [],
+            "smart_count": 0,
+            "smart_statements_details": [],
+            "new_percent": 0.0,
+            "repeated_percent": 0.0,
+            "smart_percent": 0.0
+        }
+    },
+    "ASTRAZENECA PLC": {
+        "done": {
+            "new": 9,
+            "repeated": 0,
+            "repeated_details": [],
+            "new_percent": 100.0,
+            "repeated_percent": 0.0
+        },
+        "planned": {
+            "new": 0,
+            "repeated": 0,
+            "repeated_details": [],
+            "smart_count": 0,
+            "smart_statements_details": [],
+            "new_percent": 0.0,
+            "repeated_percent": 0.0,
+            "smart_percent": 0.0
+        }
+    },
+    "ACCIONA SA": {
+        "done": {
+            "new": 41,
+            "repeated": 0,
+            "repeated_details": [],
+            "new_percent": 100.0,
+            "repeated_percent": 0.0
+        },
+        "planned": {
+            "new": 8,
+            "repeated": 0,
+            "repeated_details": [],
+            "smart_count": 0,
+            "smart_statements_details": [],
+            "new_percent": 100.0,
+            "repeated_percent": 0.0,
+            "smart_percent": 0.0
+        }
+    },
+    "LPP SA": {
+        "done": {
+            "new": 1,
+            "repeated": 0,
+            "repeated_details": [],
+            "new_percent": 100.0,
+            "repeated_percent": 0.0
+        },
+        "planned": {
+            "new": 3,
+            "repeated": 0,
+            "repeated_details": [],
+            "smart_count": 2,
+            "smart_statements_details": [
+                {
+                    "statement": "In 2021 all our down and wool will come  from certiﬁ ed farms.",
+                    "analysis": {
+                        "smart": true,
+                        "specific": "all our down and wool will come from certified farms",
+                        "measurable": "all",
+                        "achievable": "will come from certified farms",
+                        "relevant": "certified farms",
+                        "time": "In 2021"
+                    }
+                },
+                {
+                    "statement": "By 2023 100% of our cardboard boxes will be made of recycled or FSC certiﬁ ed paper.",
+                    "analysis": {
+                        "smart": true,
+                        "specific": "100% of our cardboard boxes will be made of recycled or FSC certified paper",
+                        "measurable": "100%",
+                        "achievable": "100% of our cardboard boxes will be made of recycled or FSC certified paper",
+                        "relevant": "recycled or FSC certified paper",
+                        "time": "By 2023"
+                    }
+                }
+            ],
+            "new_percent": 100.0,
+            "repeated_percent": 0.0,
+            "smart_percent": 66.67
+        }
+    },
+    "EQUINOR ASA": {
+        "done": {
+            "new": 9,
+            "repeated": 0,
+            "repeated_details": [],
+            "new_percent": 100.0,
+            "repeated_percent": 0.0
+        },
+        "planned": {
+            "new": 2,
+            "repeated": 0,
+            "repeated_details": [],
+            "smart_count": 0,
+            "smart_statements_details": [],
+            "new_percent": 100.0,
+            "repeated_percent": 0.0,
+            "smart_percent": 0.0
+        }
+    },
+    "SNAM SPA": {
+        "done": {
+            "new": 11,
+            "repeated": 0,
+            "repeated_details": [],
+            "new_percent": 100.0,
+            "repeated_percent": 0.0
+        },
+        "planned": {
+            "new": 2,
+            "repeated": 0,
+            "repeated_details": [],
+            "smart_count": 0,
+            "smart_statements_details": [],
+            "new_percent": 100.0,
+            "repeated_percent": 0.0,
+            "smart_percent": 0.0
+        }
+    },
+    "VERBUND AG": {
+        "done": {
+            "new": 5,
+            "repeated": 0,
+            "repeated_details": [],
+            "new_percent": 100.0,
+            "repeated_percent": 0.0
+        },
+        "planned": {
+            "new": 0,
+            "repeated": 0,
+            "repeated_details": [],
+            "smart_count": 0,
+            "smart_statements_details": [],
+            "new_percent": 0.0,
+            "repeated_percent": 0.0,
+            "smart_percent": 0.0
+        }
+    },
+    "BOLIDEN AB": {
+        "done": {
+            "new": 17,
+            "repeated": 0,
+            "repeated_details": [],
+            "new_percent": 100.0,
+            "repeated_percent": 0.0
+        },
+        "planned": {
+            "new": 0,
+            "repeated": 0,
+            "repeated_details": [],
+            "smart_count": 0,
+            "smart_statements_details": [],
+            "new_percent": 0.0,
+            "repeated_percent": 0.0,
+            "smart_percent": 0.0
+        }
+    },
+    "DRAX GROUP PLC": {
+        "done": {
+            "new": 10,
+            "repeated": 0,
+            "repeated_details": [],
+            "new_percent": 100.0,
+            "repeated_percent": 0.0
+        },
+        "planned": {
+            "new": 5,
+            "repeated": 0,
+            "repeated_details": [],
+            "smart_count": 0,
+            "smart_statements_details": [],
+            "new_percent": 100.0,
+            "repeated_percent": 0.0,
+            "smart_percent": 0.0
+        }
+    },
+    "SIEMENS HEALTHINEERS AG": {
+        "done": {
+            "new": 6,
+            "repeated": 0,
+            "repeated_details": [],
+            "new_percent": 100.0,
+            "repeated_percent": 0.0
+        },
+        "planned": {
+            "new": 0,
+            "repeated": 0,
+            "repeated_details": [],
+            "smart_count": 0,
+            "smart_statements_details": [],
+            "new_percent": 0.0,
+            "repeated_percent": 0.0,
+            "smart_percent": 0.0
+        }
+    },
+    "SODEXO SA": {
+        "done": {
+            "new": 1,
+            "repeated": 0,
+            "repeated_details": [],
+            "new_percent": 100.0,
+            "repeated_percent": 0.0
+        },
+        "planned": {
+            "new": 0,
+            "repeated": 0,
+            "repeated_details": [],
+            "smart_count": 0,
+            "smart_statements_details": [],
+            "new_percent": 0.0,
+            "repeated_percent": 0.0,
+            "smart_percent": 0.0
+        }
+    },
+    "ELIA GROUP SA/NV": {
+        "done": {
+            "new": 19,
+            "repeated": 0,
+            "repeated_details": [],
+            "new_percent": 100.0,
+            "repeated_percent": 0.0
+        },
+        "planned": {
+            "new": 7,
+            "repeated": 0,
+            "repeated_details": [],
+            "smart_count": 1,
+            "smart_statements_details": [
+                {
+                    "statement": "By 2021, 1250 hectares of industrial land in this region will be developed to promote biodiversity.",
+                    "analysis": {
+                        "smart": true,
+                        "specific": "1250 hectares of industrial land in this region will be developed",
+                        "measurable": "1250 hectares",
+                        "achievable": "will be developed",
+                        "relevant": "to promote biodiversity",
+                        "time": "By 2021"
+                    }
+                }
+            ],
+            "new_percent": 100.0,
+            "repeated_percent": 0.0,
+            "smart_percent": 14.29
+        }
+    },
+    "TUI AG": {
+        "done": {
+            "new": 2,
+            "repeated": 0,
+            "repeated_details": [],
+            "new_percent": 100.0,
+            "repeated_percent": 0.0
+        },
+        "planned": {
+            "new": 0,
+            "repeated": 0,
+            "repeated_details": [],
+            "smart_count": 0,
+            "smart_statements_details": [],
+            "new_percent": 0.0,
+            "repeated_percent": 0.0,
+            "smart_percent": 0.0
+        }
+    },
+    "RHEINMETALL AG": {
+        "done": {
+            "new": 5,
+            "repeated": 0,
+            "repeated_details": [],
+            "new_percent": 100.0,
+            "repeated_percent": 0.0
+        },
+        "planned": {
+            "new": 0,
+            "repeated": 0,
+            "repeated_details": [],
+            "smart_count": 0,
+            "smart_statements_details": [],
+            "new_percent": 0.0,
+            "repeated_percent": 0.0,
+            "smart_percent": 0.0
+        }
+    },
+    "EDP RENOVAVEIS SA": {
+        "done": {
+            "new": 31,
+            "repeated": 0,
+            "repeated_details": [],
+            "new_percent": 100.0,
+            "repeated_percent": 0.0
+        },
+        "planned": {
+            "new": 5,
+            "repeated": 0,
+            "repeated_details": [],
+            "smart_count": 0,
+            "smart_statements_details": [],
+            "new_percent": 100.0,
+            "repeated_percent": 0.0,
+            "smart_percent": 0.0
+        }
+    },
+    "SEVERN TRENT PLC": {
+        "done": {
+            "new": 17,
+            "repeated": 0,
+            "repeated_details": [],
+            "new_percent": 100.0,
+            "repeated_percent": 0.0
+        },
+        "planned": {
+            "new": 6,
+            "repeated": 0,
+            "repeated_details": [],
+            "smart_count": 3,
+            "smart_statements_details": [
+                {
+                    "statement": "Improve 1090 hectares of land (or km of river) for biodiversity by 2025.",
+                    "analysis": {
+                        "smart": true,
+                        "specific": "Improve 1090 hectares of land (or km of river)",
+                        "measurable": "1090 hectares of land (or km of river)",
+                        "achievable": "Improve 1090 hectares of land (or km of river)",
+                        "relevant": "for biodiversity",
+                        "time": "by 2025"
+                    }
+                },
+                {
+                    "statement": "Plant the equivalent of one tree for every three households we serve by 2030.",
+                    "analysis": {
+                        "smart": true,
+                        "specific": "Plant the equivalent of one tree for every three households we serve",
+                        "measurable": "one tree for every three households",
+                        "achievable": "Plant the equivalent of one tree for every three households we serve",
+                        "relevant": "Plant the equivalent of one tree",
+                        "time": "by 2030"
+                    }
+                },
+                {
+                    "statement": "By 2025, we’re aiming to work with organisations such as the Wildlife Trusts to improve biodiversity on a further 1,015 hectares.",
+                    "analysis": {
+                        "smart": true,
+                        "specific": "improve biodiversity on a further 1,015 hectares",
+                        "measurable": "1,015 hectares",
+                        "achievable": "aiming to work with organisations such as the Wildlife Trusts",
+                        "relevant": "improve biodiversity",
+                        "time": "By 2025"
+                    }
+                }
+            ],
+            "new_percent": 100.0,
+            "repeated_percent": 0.0,
+            "smart_percent": 50.0
+        }
+    },
+    "SAIPEM SPA": {
+        "done": {
+            "new": 3,
+            "repeated": 0,
+            "repeated_details": [],
+            "new_percent": 100.0,
+            "repeated_percent": 0.0
+        },
+        "planned": {
+            "new": 0,
+            "repeated": 0,
+            "repeated_details": [],
+            "smart_count": 0,
+            "smart_statements_details": [],
+            "new_percent": 0.0,
+            "repeated_percent": 0.0,
+            "smart_percent": 0.0
+        }
+    },
+    "CELLNEX TELECOM SA": {
+        "done": {
+            "new": 4,
+            "repeated": 0,
+            "repeated_details": [],
+            "new_percent": 100.0,
+            "repeated_percent": 0.0
+        },
+        "planned": {
+            "new": 3,
+            "repeated": 0,
+            "repeated_details": [],
+            "smart_count": 0,
+            "smart_statements_details": [],
+            "new_percent": 100.0,
+            "repeated_percent": 0.0,
+            "smart_percent": 0.0
+        }
+    },
+    "BT GROUP PLC": {
+        "done": {
+            "new": 3,
+            "repeated": 0,
+            "repeated_details": [],
+            "new_percent": 100.0,
+            "repeated_percent": 0.0
+        },
+        "planned": {
+            "new": 0,
+            "repeated": 0,
+            "repeated_details": [],
+            "smart_count": 0,
+            "smart_statements_details": [],
+            "new_percent": 0.0,
+            "repeated_percent": 0.0,
+            "smart_percent": 0.0
+        }
+    },
+    "PUMA SE": {
+        "done": {
+            "new": 1,
+            "repeated": 0,
+            "repeated_details": [],
+            "new_percent": 100.0,
+            "repeated_percent": 0.0
+        },
+        "planned": {
+            "new": 3,
+            "repeated": 0,
+            "repeated_details": [],
+            "smart_count": 0,
+            "smart_statements_details": [],
+            "new_percent": 100.0,
+            "repeated_percent": 0.0,
+            "smart_percent": 0.0
+        }
+    },
+    "EVOLUTION AB": {
+        "done": {
+            "new": 2,
+            "repeated": 0,
+            "repeated_details": [],
+            "new_percent": 100.0,
+            "repeated_percent": 0.0
+        },
+        "planned": {
+            "new": 0,
+            "repeated": 0,
+            "repeated_details": [],
+            "smart_count": 0,
+            "smart_statements_details": [],
+            "new_percent": 0.0,
+            "repeated_percent": 0.0,
+            "smart_percent": 0.0
+        }
+    },
+    "SAINSBURY (J) PLC": {
+        "done": {
+            "new": 11,
+            "repeated": 0,
+            "repeated_details": [],
+            "new_percent": 100.0,
+            "repeated_percent": 0.0
+        },
+        "planned": {
+            "new": 0,
+            "repeated": 0,
+            "repeated_details": [],
+            "smart_count": 0,
+            "smart_statements_details": [],
+            "new_percent": 0.0,
+            "repeated_percent": 0.0,
+            "smart_percent": 0.0
+        }
+    },
+    "LANXESS AG": {
+        "done": {
+            "new": 1,
+            "repeated": 0,
+            "repeated_details": [],
+            "new_percent": 100.0,
+            "repeated_percent": 0.0
+        },
+        "planned": {
+            "new": 0,
+            "repeated": 0,
+            "repeated_details": [],
+            "smart_count": 0,
+            "smart_statements_details": [],
+            "new_percent": 0.0,
+            "repeated_percent": 0.0,
+            "smart_percent": 0.0
+        }
+    },
+    "HEIDELBERG MATERIALS AG": {
+        "done": {
+            "new": 24,
+            "repeated": 0,
+            "repeated_details": [],
+            "new_percent": 100.0,
+            "repeated_percent": 0.0
+        },
+        "planned": {
+            "new": 10,
+            "repeated": 0,
+            "repeated_details": [],
+            "smart_count": 1,
+            "smart_statements_details": [
+                {
+                    "statement": "Our objective is to have water management plans in place by 2030 for all plants in regions affected by water scarcity.",
+                    "analysis": {
+                        "smart": true,
+                        "specific": "water management plans in place for all plants in regions affected by water scarcity",
+                        "measurable": "plans in place",
+                        "achievable": "plans in place",
+                        "relevant": "regions affected by water scarcity",
+                        "time": "by 2030"
+                    }
+                }
+            ],
+            "new_percent": 100.0,
+            "repeated_percent": 0.0,
+            "smart_percent": 10.0
+        }
+    },
+    "GALP ENERGIA SGPS SA": {
+        "done": {
+            "new": 12,
+            "repeated": 0,
+            "repeated_details": [],
+            "new_percent": 100.0,
+            "repeated_percent": 0.0
+        },
+        "planned": {
+            "new": 2,
+            "repeated": 0,
+            "repeated_details": [],
+            "smart_count": 0,
+            "smart_statements_details": [],
+            "new_percent": 100.0,
+            "repeated_percent": 0.0,
+            "smart_percent": 0.0
+        }
+    },
+    "VONOVIA SE": {
+        "done": {
+            "new": 14,
+            "repeated": 0,
+            "repeated_details": [],
+            "new_percent": 100.0,
+            "repeated_percent": 0.0
+        },
+        "planned": {
+            "new": 9,
+            "repeated": 0,
+            "repeated_details": [],
+            "smart_count": 0,
+            "smart_statements_details": [],
+            "new_percent": 100.0,
+            "repeated_percent": 0.0,
+            "smart_percent": 0.0
+        }
+    },
+    "AXA SA": {
+        "done": {
+            "new": 2,
+            "repeated": 0,
+            "repeated_details": [],
+            "new_percent": 100.0,
+            "repeated_percent": 0.0
+        },
+        "planned": {
+            "new": 3,
+            "repeated": 0,
+            "repeated_details": [],
+            "smart_count": 0,
+            "smart_statements_details": [],
+            "new_percent": 100.0,
+            "repeated_percent": 0.0,
+            "smart_percent": 0.0
+        }
+    },
+    "ARCADIS NV": {
+        "done": {
+            "new": 4,
+            "repeated": 0,
+            "repeated_details": [],
+            "new_percent": 100.0,
+            "repeated_percent": 0.0
+        },
+        "planned": {
+            "new": 1,
+            "repeated": 0,
+            "repeated_details": [],
+            "smart_count": 0,
+            "smart_statements_details": [],
+            "new_percent": 100.0,
+            "repeated_percent": 0.0,
+            "smart_percent": 0.0
+        }
+    },
+    "OMV AG": {
+        "done": {
+            "new": 0,
+            "repeated": 0,
+            "repeated_details": [],
+            "new_percent": 0.0,
+            "repeated_percent": 0.0
+        },
+        "planned": {
+            "new": 2,
+            "repeated": 0,
+            "repeated_details": [],
+            "smart_count": 0,
+            "smart_statements_details": [],
+            "new_percent": 100.0,
+            "repeated_percent": 0.0,
+            "smart_percent": 0.0
+        }
+    },
+    "AKER BP ASA": {
+        "done": {
+            "new": 8,
+            "repeated": 0,
+            "repeated_details": [],
+            "new_percent": 100.0,
+            "repeated_percent": 0.0
+        },
+        "planned": {
+            "new": 1,
+            "repeated": 0,
+            "repeated_details": [],
+            "smart_count": 0,
+            "smart_statements_details": [],
+            "new_percent": 100.0,
+            "repeated_percent": 0.0,
+            "smart_percent": 0.0
+        }
+    },
+    "OCADO GROUP PLC": {
+        "done": {
+            "new": 3,
+            "repeated": 0,
+            "repeated_details": [],
+            "new_percent": 100.0,
+            "repeated_percent": 0.0
+        },
+        "planned": {
+            "new": 0,
+            "repeated": 0,
+            "repeated_details": [],
+            "smart_count": 0,
+            "smart_statements_details": [],
+            "new_percent": 0.0,
+            "repeated_percent": 0.0,
+            "smart_percent": 0.0
+        }
+    },
+    "TELECOM ITALIA SPA": {
+        "done": {
+            "new": 1,
+            "repeated": 0,
+            "repeated_details": [],
+            "new_percent": 100.0,
+            "repeated_percent": 0.0
+        },
+        "planned": {
+            "new": 0,
+            "repeated": 0,
+            "repeated_details": [],
+            "smart_count": 0,
+            "smart_statements_details": [],
+            "new_percent": 0.0,
+            "repeated_percent": 0.0,
+            "smart_percent": 0.0
+        }
+    },
+    "YARA INTERNATIONAL ASA": {
+        "done": {
+            "new": 9,
+            "repeated": 0,
+            "repeated_details": [],
+            "new_percent": 100.0,
+            "repeated_percent": 0.0
+        },
+        "planned": {
+            "new": 2,
+            "repeated": 0,
+            "repeated_details": [],
+            "smart_count": 0,
+            "smart_statements_details": [],
+            "new_percent": 100.0,
+            "repeated_percent": 0.0,
+            "smart_percent": 0.0
+        }
+    },
+    "GECINA SA": {
+        "done": {
+            "new": 39,
+            "repeated": 0,
+            "repeated_details": [],
+            "new_percent": 100.0,
+            "repeated_percent": 0.0
+        },
+        "planned": {
+            "new": 15,
+            "repeated": 0,
+            "repeated_details": [],
+            "smart_count": 0,
+            "smart_statements_details": [],
+            "new_percent": 100.0,
+            "repeated_percent": 0.0,
+            "smart_percent": 0.0
+        }
+    },
+    "JDE PEET S NV": {
+        "done": {
+            "new": 4,
+            "repeated": 0,
+            "repeated_details": [],
+            "new_percent": 100.0,
+            "repeated_percent": 0.0
+        },
+        "planned": {
+            "new": 1,
+            "repeated": 0,
+            "repeated_details": [],
+            "smart_count": 0,
+            "smart_statements_details": [],
+            "new_percent": 100.0,
+            "repeated_percent": 0.0,
+            "smart_percent": 0.0
+        }
+    },
+    "ASM INTERNATIONAL NV": {
+        "done": {
+            "new": 1,
+            "repeated": 0,
+            "repeated_details": [],
+            "new_percent": 100.0,
+            "repeated_percent": 0.0
+        },
+        "planned": {
+            "new": 0,
+            "repeated": 0,
+            "repeated_details": [],
+            "smart_count": 0,
+            "smart_statements_details": [],
+            "new_percent": 0.0,
+            "repeated_percent": 0.0,
+            "smart_percent": 0.0
+        }
+    },
+    "BARRATT REDROW PLC": {
+        "done": {
+            "new": 9,
+            "repeated": 0,
+            "repeated_details": [],
+            "new_percent": 100.0,
+            "repeated_percent": 0.0
+        },
+        "planned": {
+            "new": 4,
+            "repeated": 0,
+            "repeated_details": [],
+            "smart_count": 0,
+            "smart_statements_details": [],
+            "new_percent": 100.0,
+            "repeated_percent": 0.0,
+            "smart_percent": 0.0
+        }
+    },
+    "ZURICH INSURANCE GROUP AG": {
+        "done": {
+            "new": 11,
+            "repeated": 0,
+            "repeated_details": [],
+            "new_percent": 100.0,
+            "repeated_percent": 0.0
+        },
+        "planned": {
+            "new": 3,
+            "repeated": 0,
+            "repeated_details": [],
+            "smart_count": 0,
+            "smart_statements_details": [],
+            "new_percent": 100.0,
+            "repeated_percent": 0.0,
+            "smart_percent": 0.0
+        }
+    },
+    "ALFA LAVAL AB": {
+        "done": {
+            "new": 2,
+            "repeated": 0,
+            "repeated_details": [],
+            "new_percent": 100.0,
+            "repeated_percent": 0.0
+        },
+        "planned": {
+            "new": 0,
+            "repeated": 0,
+            "repeated_details": [],
+            "smart_count": 0,
+            "smart_statements_details": [],
+            "new_percent": 0.0,
+            "repeated_percent": 0.0,
+            "smart_percent": 0.0
+        }
+    },
+    "INVESTEC PLC": {
+        "done": {
+            "new": 11,
+            "repeated": 0,
+            "repeated_details": [],
+            "new_percent": 100.0,
+            "repeated_percent": 0.0
+        },
+        "planned": {
+            "new": 0,
+            "repeated": 0,
+            "repeated_details": [],
+            "smart_count": 0,
+            "smart_statements_details": [],
+            "new_percent": 0.0,
+            "repeated_percent": 0.0,
+            "smart_percent": 0.0
+        }
+    },
+    "NORSK HYDRO ASA": {
+        "done": {
+            "new": 2,
+            "repeated": 0,
+            "repeated_details": [],
+            "new_percent": 100.0,
+            "repeated_percent": 0.0
+        },
+        "planned": {
+            "new": 2,
+            "repeated": 0,
+            "repeated_details": [],
+            "smart_count": 0,
+            "smart_statements_details": [],
+            "new_percent": 100.0,
+            "repeated_percent": 0.0,
+            "smart_percent": 0.0
+        }
+    },
+    "HOCHTIEF AG": {
+        "done": {
+            "new": 9,
+            "repeated": 0,
+            "repeated_details": [],
+            "new_percent": 100.0,
+            "repeated_percent": 0.0
+        },
+        "planned": {
+            "new": 0,
+            "repeated": 0,
+            "repeated_details": [],
+            "smart_count": 0,
+            "smart_statements_details": [],
+            "new_percent": 0.0,
+            "repeated_percent": 0.0,
+            "smart_percent": 0.0
+        }
+    },
+    "COMPASS GROUP PLC": {
+        "done": {
+            "new": 1,
+            "repeated": 0,
+            "repeated_details": [],
+            "new_percent": 100.0,
+            "repeated_percent": 0.0
+        },
+        "planned": {
+            "new": 0,
+            "repeated": 0,
+            "repeated_details": [],
+            "smart_count": 0,
+            "smart_statements_details": [],
+            "new_percent": 0.0,
+            "repeated_percent": 0.0,
+            "smart_percent": 0.0
+        }
+    },
+    "BRENNTAG SE": {
+        "done": {
+            "new": 1,
+            "repeated": 0,
+            "repeated_details": [],
+            "new_percent": 100.0,
+            "repeated_percent": 0.0
+        },
+        "planned": {
+            "new": 0,
+            "repeated": 0,
+            "repeated_details": [],
+            "smart_count": 0,
+            "smart_statements_details": [],
+            "new_percent": 0.0,
+            "repeated_percent": 0.0,
+            "smart_percent": 0.0
+        }
+    },
+    "VOESTALPINE AG": {
+        "done": {
+            "new": 4,
+            "repeated": 0,
+            "repeated_details": [],
+            "new_percent": 100.0,
+            "repeated_percent": 0.0
+        },
+        "planned": {
+            "new": 0,
+            "repeated": 0,
+            "repeated_details": [],
+            "smart_count": 0,
+            "smart_statements_details": [],
+            "new_percent": 0.0,
+            "repeated_percent": 0.0,
+            "smart_percent": 0.0
+        }
+    },
+    "ORLEN SA": {
+        "done": {
+            "new": 21,
+            "repeated": 0,
+            "repeated_details": [],
+            "new_percent": 100.0,
+            "repeated_percent": 0.0
+        },
+        "planned": {
+            "new": 0,
+            "repeated": 0,
+            "repeated_details": [],
+            "smart_count": 0,
+            "smart_statements_details": [],
+            "new_percent": 0.0,
+            "repeated_percent": 0.0,
+            "smart_percent": 0.0
+        }
+    },
+    "AURUBIS AG": {
+        "done": {
+            "new": 11,
+            "repeated": 0,
+            "repeated_details": [],
+            "new_percent": 100.0,
+            "repeated_percent": 0.0
+        },
+        "planned": {
+            "new": 3,
+            "repeated": 0,
+            "repeated_details": [],
+            "smart_count": 0,
+            "smart_statements_details": [],
+            "new_percent": 100.0,
+            "repeated_percent": 0.0,
+            "smart_percent": 0.0
+        }
+    },
+    "SYMRISE AG": {
+        "done": {
+            "new": 4,
+            "repeated": 0,
+            "repeated_details": [],
+            "new_percent": 100.0,
+            "repeated_percent": 0.0
+        },
+        "planned": {
+            "new": 5,
+            "repeated": 0,
+            "repeated_details": [],
+            "smart_count": 1,
+            "smart_statements_details": [
+                {
+                    "statement": "100 % sustainable sourcing of our strategic agricultural  and aquacultural raw materials as of 2025.",
+                    "analysis": {
+                        "smart": true,
+                        "specific": "100% sustainable sourcing of our strategic agricultural and aquacultural raw materials",
+                        "measurable": "100%",
+                        "achievable": "sustainable sourcing of our strategic agricultural and aquacultural raw materials",
+                        "relevant": "sustainable sourcing",
+                        "time": "as of 2025"
+                    }
+                }
+            ],
+            "new_percent": 100.0,
+            "repeated_percent": 0.0,
+            "smart_percent": 20.0
+        }
+    },
+    "BE SEMICONDUCTOR INDUSTRIES": {
+        "done": {
+            "new": 1,
+            "repeated": 0,
+            "repeated_details": [],
+            "new_percent": 100.0,
+            "repeated_percent": 0.0
+        },
+        "planned": {
+            "new": 0,
+            "repeated": 0,
+            "repeated_details": [],
+            "smart_count": 0,
+            "smart_statements_details": [],
+            "new_percent": 0.0,
+            "repeated_percent": 0.0,
+            "smart_percent": 0.0
+        }
+    },
+    "FERRARI NV": {
+        "done": {
+            "new": 2,
+            "repeated": 0,
+            "repeated_details": [],
+            "new_percent": 100.0,
+            "repeated_percent": 0.0
+        },
+        "planned": {
+            "new": 0,
+            "repeated": 0,
+            "repeated_details": [],
+            "smart_count": 0,
+            "smart_statements_details": [],
+            "new_percent": 0.0,
+            "repeated_percent": 0.0,
+            "smart_percent": 0.0
+        }
+    },
+    "AALBERTS NV": {
+        "done": {
+            "new": 2,
+            "repeated": 0,
+            "repeated_details": [],
+            "new_percent": 100.0,
+            "repeated_percent": 0.0
+        },
+        "planned": {
+            "new": 0,
+            "repeated": 0,
+            "repeated_details": [],
+            "smart_count": 0,
+            "smart_statements_details": [],
+            "new_percent": 0.0,
+            "repeated_percent": 0.0,
+            "smart_percent": 0.0
+        }
+    },
+    "BURBERRY GROUP PLC": {
+        "done": {
+            "new": 3,
+            "repeated": 0,
+            "repeated_details": [],
+            "new_percent": 100.0,
+            "repeated_percent": 0.0
+        },
+        "planned": {
+            "new": 0,
+            "repeated": 0,
+            "repeated_details": [],
+            "smart_count": 0,
+            "smart_statements_details": [],
+            "new_percent": 0.0,
+            "repeated_percent": 0.0,
+            "smart_percent": 0.0
+        }
+    },
+    "TELEFONICA SA": {
+        "done": {
+            "new": 2,
+            "repeated": 0,
+            "repeated_details": [],
+            "new_percent": 100.0,
+            "repeated_percent": 0.0
+        },
+        "planned": {
+            "new": 0,
+            "repeated": 0,
+            "repeated_details": [],
+            "smart_count": 0,
+            "smart_statements_details": [],
+            "new_percent": 0.0,
+            "repeated_percent": 0.0,
+            "smart_percent": 0.0
+        }
+    },
+    "THULE GROUP AB/THE": {
+        "done": {
+            "new": 2,
+            "repeated": 0,
+            "repeated_details": [],
+            "new_percent": 100.0,
+            "repeated_percent": 0.0
+        },
+        "planned": {
+            "new": 0,
+            "repeated": 0,
+            "repeated_details": [],
+            "smart_count": 0,
+            "smart_statements_details": [],
+            "new_percent": 0.0,
+            "repeated_percent": 0.0,
+            "smart_percent": 0.0
+        }
+    },
+    "HEINEKEN NV": {
+        "done": {
+            "new": 1,
+            "repeated": 0,
+            "repeated_details": [],
+            "new_percent": 100.0,
+            "repeated_percent": 0.0
+        },
+        "planned": {
+            "new": 1,
+            "repeated": 0,
+            "repeated_details": [],
+            "smart_count": 0,
+            "smart_statements_details": [],
+            "new_percent": 100.0,
+            "repeated_percent": 0.0,
+            "smart_percent": 0.0
+        }
+    },
+    "STELLANTIS NV": {
+        "done": {
+            "new": 29,
+            "repeated": 0,
+            "repeated_details": [],
+            "new_percent": 100.0,
+            "repeated_percent": 0.0
+        },
+        "planned": {
+            "new": 6,
+            "repeated": 0,
+            "repeated_details": [],
+            "smart_count": 0,
+            "smart_statements_details": [],
+            "new_percent": 100.0,
+            "repeated_percent": 0.0,
+            "smart_percent": 0.0
+        }
+    },
+    "ENI SPA": {
+        "done": {
+            "new": 6,
+            "repeated": 0,
+            "repeated_details": [],
+            "new_percent": 100.0,
+            "repeated_percent": 0.0
+        },
+        "planned": {
+            "new": 0,
+            "repeated": 0,
+            "repeated_details": [],
+            "smart_count": 0,
+            "smart_statements_details": [],
+            "new_percent": 0.0,
+            "repeated_percent": 0.0,
+            "smart_percent": 0.0
+        }
+    },
+    "SAFRAN SA": {
+        "done": {
+            "new": 1,
+            "repeated": 0,
+            "repeated_details": [],
+            "new_percent": 100.0,
+            "repeated_percent": 0.0
+        },
+        "planned": {
+            "new": 0,
+            "repeated": 0,
+            "repeated_details": [],
+            "smart_count": 0,
+            "smart_statements_details": [],
+            "new_percent": 0.0,
+            "repeated_percent": 0.0,
+            "smart_percent": 0.0
+        }
+    },
+    "WENDEL": {
+        "done": {
+            "new": 13,
+            "repeated": 0,
+            "repeated_details": [],
+            "new_percent": 100.0,
+            "repeated_percent": 0.0
+        },
+        "planned": {
+            "new": 1,
+            "repeated": 0,
+            "repeated_details": [],
+            "smart_count": 0,
+            "smart_statements_details": [],
+            "new_percent": 100.0,
+            "repeated_percent": 0.0,
+            "smart_percent": 0.0
+        }
+    },
+    "PERSIMMON PLC": {
+        "done": {
+            "new": 8,
+            "repeated": 0,
+            "repeated_details": [],
+            "new_percent": 100.0,
+            "repeated_percent": 0.0
+        },
+        "planned": {
+            "new": 1,
+            "repeated": 0,
+            "repeated_details": [],
+            "smart_count": 0,
+            "smart_statements_details": [],
+            "new_percent": 100.0,
+            "repeated_percent": 0.0,
+            "smart_percent": 0.0
+        }
+    },
+    "RELX PLC": {
+        "done": {
+            "new": 1,
+            "repeated": 0,
+            "repeated_details": [],
+            "new_percent": 100.0,
+            "repeated_percent": 0.0
+        },
+        "planned": {
+            "new": 0,
+            "repeated": 0,
+            "repeated_details": [],
+            "smart_count": 0,
+            "smart_statements_details": [],
+            "new_percent": 0.0,
+            "repeated_percent": 0.0,
+            "smart_percent": 0.0
+        }
+    },
+    "PENNON GROUP PLC": {
+        "done": {
+            "new": 0,
+            "repeated": 0,
+            "repeated_details": [],
+            "new_percent": 0.0,
+            "repeated_percent": 0.0
+        },
+        "planned": {
+            "new": 2,
+            "repeated": 0,
+            "repeated_details": [],
+            "smart_count": 0,
+            "smart_statements_details": [],
+            "new_percent": 100.0,
+            "repeated_percent": 0.0,
+            "smart_percent": 0.0
+        }
+    },
+    "ASSOCIATED BRITISH FOODS PLC": {
+        "done": {
+            "new": 10,
+            "repeated": 0,
+            "repeated_details": [],
+            "new_percent": 100.0,
+            "repeated_percent": 0.0
+        },
+        "planned": {
+            "new": 0,
+            "repeated": 0,
+            "repeated_details": [],
+            "smart_count": 0,
+            "smart_statements_details": [],
+            "new_percent": 0.0,
+            "repeated_percent": 0.0,
+            "smart_percent": 0.0
+        }
+    },
+    "WIENERBERGER AG": {
+        "done": {
+            "new": 7,
+            "repeated": 0,
+            "repeated_details": [],
+            "new_percent": 100.0,
+            "repeated_percent": 0.0
+        },
+        "planned": {
+            "new": 4,
+            "repeated": 0,
+            "repeated_details": [],
+            "smart_count": 0,
+            "smart_statements_details": [],
+            "new_percent": 100.0,
+            "repeated_percent": 0.0,
+            "smart_percent": 0.0
+        }
+    },
+    "VIDRALA SA": {
+        "done": {
+            "new": 2,
+            "repeated": 0,
+            "repeated_details": [],
+            "new_percent": 100.0,
+            "repeated_percent": 0.0
+        },
+        "planned": {
+            "new": 0,
+            "repeated": 0,
+            "repeated_details": [],
+            "smart_count": 0,
+            "smart_statements_details": [],
+            "new_percent": 0.0,
+            "repeated_percent": 0.0,
+            "smart_percent": 0.0
+        }
+    },
+    "KNORR BREMSE AG": {
+        "done": {
+            "new": 1,
+            "repeated": 0,
+            "repeated_details": [],
+            "new_percent": 100.0,
+            "repeated_percent": 0.0
+        },
+        "planned": {
+            "new": 0,
+            "repeated": 0,
+            "repeated_details": [],
+            "smart_count": 0,
+            "smart_statements_details": [],
+            "new_percent": 0.0,
+            "repeated_percent": 0.0,
+            "smart_percent": 0.0
+        }
+    },
+    "VINCI SA": {
+        "done": {
+            "new": 73,
+            "repeated": 0,
+            "repeated_details": [],
+            "new_percent": 100.0,
+            "repeated_percent": 0.0
+        },
+        "planned": {
+            "new": 15,
+            "repeated": 0,
+            "repeated_details": [],
+            "smart_count": 0,
+            "smart_statements_details": [],
+            "new_percent": 100.0,
+            "repeated_percent": 0.0,
+            "smart_percent": 0.0
+        }
+    },
+    "EVONIK INDUSTRIES AG": {
+        "done": {
+            "new": 4,
+            "repeated": 0,
+            "repeated_details": [],
+            "new_percent": 100.0,
+            "repeated_percent": 0.0
+        },
+        "planned": {
+            "new": 0,
+            "repeated": 0,
+            "repeated_details": [],
+            "smart_count": 0,
+            "smart_statements_details": [],
+            "new_percent": 0.0,
+            "repeated_percent": 0.0,
+            "smart_percent": 0.0
+        }
+    },
+    "PERNOD RICARD SA": {
+        "done": {
+            "new": 7,
+            "repeated": 0,
+            "repeated_details": [],
+            "new_percent": 100.0,
+            "repeated_percent": 0.0
+        },
+        "planned": {
+            "new": 6,
+            "repeated": 0,
+            "repeated_details": [],
+            "smart_count": 2,
+            "smart_statements_details": [
+                {
+                    "statement": "By 2025, we will develop regenerative agriculture pilot schemes within our vineyards across 8 wine regions.",
+                    "analysis": {
+                        "smart": true,
+                        "specific": "regenerative agriculture pilot schemes",
+                        "measurable": "within our vineyards across 8 wine regions",
+                        "achievable": "develop",
+                        "relevant": "regenerative agriculture",
+                        "time": "By 2025"
+                    }
+                },
+                {
+                    "statement": "By 2030, we aim to be water balanced in all high-risk watersheds, replenishing 100% of water consumption from production sites.",
+                    "analysis": {
+                        "smart": true,
+                        "specific": "be water balanced in all high-risk watersheds",
+                        "measurable": "replenishing 100% of water consumption from production sites",
+                        "achievable": "be water balanced in all high-risk watersheds, replenishing 100% of water consumption from production sites",
+                        "relevant": "be water balanced",
+                        "time": "By 2030"
+                    }
+                }
+            ],
+            "new_percent": 100.0,
+            "repeated_percent": 0.0,
+            "smart_percent": 33.33
+        }
+    },
+    "ANTOFAGASTA PLC": {
+        "done": {
+            "new": 11,
+            "repeated": 0,
+            "repeated_details": [],
+            "new_percent": 100.0,
+            "repeated_percent": 0.0
+        },
+        "planned": {
+            "new": 3,
+            "repeated": 0,
+            "repeated_details": [],
+            "smart_count": 0,
+            "smart_statements_details": [],
+            "new_percent": 100.0,
+            "repeated_percent": 0.0,
+            "smart_percent": 0.0
+        }
+    },
+    "CAIXABANK SA": {
+        "done": {
+            "new": 1,
+            "repeated": 0,
+            "repeated_details": [],
+            "new_percent": 100.0,
+            "repeated_percent": 0.0
+        },
+        "planned": {
+            "new": 1,
+            "repeated": 0,
+            "repeated_details": [],
+            "smart_count": 0,
+            "smart_statements_details": [],
+            "new_percent": 100.0,
+            "repeated_percent": 0.0,
+            "smart_percent": 0.0
+        }
+    },
+    "DAVIDE CAMPARI MILANO NV": {
+        "done": {
+            "new": 1,
+            "repeated": 0,
+            "repeated_details": [],
+            "new_percent": 100.0,
+            "repeated_percent": 0.0
+        },
+        "planned": {
+            "new": 0,
+            "repeated": 0,
+            "repeated_details": [],
+            "smart_count": 0,
+            "smart_statements_details": [],
+            "new_percent": 0.0,
+            "repeated_percent": 0.0,
+            "smart_percent": 0.0
+        }
+    },
+    "ENAGAS SA": {
+        "done": {
+            "new": 10,
+            "repeated": 0,
+            "repeated_details": [],
+            "new_percent": 100.0,
+            "repeated_percent": 0.0
+        },
+        "planned": {
+            "new": 0,
+            "repeated": 0,
+            "repeated_details": [],
+            "smart_count": 0,
+            "smart_statements_details": [],
+            "new_percent": 0.0,
+            "repeated_percent": 0.0,
+            "smart_percent": 0.0
+        }
+    },
+    "SHAFTESBURY CAPITAL PLC": {
+        "done": {
+            "new": 7,
+            "repeated": 0,
+            "repeated_details": [],
+            "new_percent": 100.0,
+            "repeated_percent": 0.0
+        },
+        "planned": {
+            "new": 2,
+            "repeated": 0,
+            "repeated_details": [],
+            "smart_count": 0,
+            "smart_statements_details": [],
+            "new_percent": 100.0,
+            "repeated_percent": 0.0,
+            "smart_percent": 0.0
+        }
+    },
+    "TESCO PLC": {
+        "done": {
+            "new": 19,
+            "repeated": 0,
+            "repeated_details": [],
+            "new_percent": 100.0,
+            "repeated_percent": 0.0
+        },
+        "planned": {
+            "new": 5,
+            "repeated": 0,
+            "repeated_details": [],
+            "smart_count": 0,
+            "smart_statements_details": [],
+            "new_percent": 100.0,
+            "repeated_percent": 0.0,
+            "smart_percent": 0.0
+        }
+    },
+    "GLENCORE PLC": {
+        "done": {
+            "new": 19,
+            "repeated": 0,
+            "repeated_details": [],
+            "new_percent": 100.0,
+            "repeated_percent": 0.0
+        },
+        "planned": {
+            "new": 4,
+            "repeated": 0,
+            "repeated_details": [],
+            "smart_count": 0,
+            "smart_statements_details": [],
+            "new_percent": 100.0,
+            "repeated_percent": 0.0,
+            "smart_percent": 0.0
+        }
+    },
+    "DSM FIRMENICH AG": {
+        "done": {
+            "new": 6,
+            "repeated": 0,
+            "repeated_details": [],
+            "new_percent": 100.0,
+            "repeated_percent": 0.0
+        },
+        "planned": {
+            "new": 0,
+            "repeated": 0,
+            "repeated_details": [],
+            "smart_count": 0,
+            "smart_statements_details": [],
+            "new_percent": 0.0,
+            "repeated_percent": 0.0,
+            "smart_percent": 0.0
+        }
+    },
+    "AAK AB": {
+        "done": {
+            "new": 1,
+            "repeated": 0,
+            "repeated_details": [],
+            "new_percent": 100.0,
+            "repeated_percent": 0.0
+        },
+        "planned": {
+            "new": 0,
+            "repeated": 0,
+            "repeated_details": [],
+            "smart_count": 0,
+            "smart_statements_details": [],
+            "new_percent": 0.0,
+            "repeated_percent": 0.0,
+            "smart_percent": 0.0
+        }
+    },
+    "BEIERSDORF AG": {
+        "done": {
+            "new": 6,
+            "repeated": 0,
+            "repeated_details": [],
+            "new_percent": 100.0,
+            "repeated_percent": 0.0
+        },
+        "planned": {
+            "new": 0,
+            "repeated": 0,
+            "repeated_details": [],
+            "smart_count": 0,
+            "smart_statements_details": [],
+            "new_percent": 0.0,
+            "repeated_percent": 0.0,
+            "smart_percent": 0.0
+        }
+    },
+    "BPER BANCA SPA": {
+        "done": {
+            "new": 0,
+            "repeated": 0,
+            "repeated_details": [],
+            "new_percent": 0.0,
+            "repeated_percent": 0.0
+        },
+        "planned": {
+            "new": 1,
+            "repeated": 0,
+            "repeated_details": [],
+            "smart_count": 0,
+            "smart_statements_details": [],
+            "new_percent": 100.0,
+            "repeated_percent": 0.0,
+            "smart_percent": 0.0
+        }
+    },
+    "EQT AB": {
+        "done": {
+            "new": 17,
+            "repeated": 0,
+            "repeated_details": [],
+            "new_percent": 100.0,
+            "repeated_percent": 0.0
+        },
+        "planned": {
+            "new": 1,
+            "repeated": 0,
+            "repeated_details": [],
+            "smart_count": 0,
+            "smart_statements_details": [],
+            "new_percent": 100.0,
+            "repeated_percent": 0.0,
+            "smart_percent": 0.0
+        }
+    },
+    "ANGLO AMERICAN PLC": {
+        "done": {
+            "new": 26,
+            "repeated": 0,
+            "repeated_details": [],
+            "new_percent": 100.0,
+            "repeated_percent": 0.0
+        },
+        "planned": {
+            "new": 6,
+            "repeated": 0,
+            "repeated_details": [],
+            "smart_count": 0,
+            "smart_statements_details": [],
+            "new_percent": 100.0,
+            "repeated_percent": 0.0,
+            "smart_percent": 0.0
+        }
+    },
+    "SIG GROUP AG": {
+        "done": {
+            "new": 8,
+            "repeated": 0,
+            "repeated_details": [],
+            "new_percent": 100.0,
+            "repeated_percent": 0.0
+        },
+        "planned": {
+            "new": 0,
+            "repeated": 0,
+            "repeated_details": [],
+            "smart_count": 0,
+            "smart_statements_details": [],
+            "new_percent": 0.0,
+            "repeated_percent": 0.0,
+            "smart_percent": 0.0
+        }
+    },
+    "ENEL SPA": {
+        "done": {
+            "new": 48,
+            "repeated": 0,
+            "repeated_details": [],
+            "new_percent": 100.0,
+            "repeated_percent": 0.0
+        },
+        "planned": {
+            "new": 8,
+            "repeated": 0,
+            "repeated_details": [],
+            "smart_count": 1,
+            "smart_statements_details": [
+                {
+                    "statement": "Quality analysis of  each batch of fruits,  seeds and germination  percentage, achieving  in 12 months the  propagation of 117,087  seedlings of 41 native  species of the tropical  dry forest",
+                    "analysis": {
+                        "smart": true,
+                        "specific": "propagation of 117,087 seedlings of 41 native species of the tropical dry forest",
+                        "measurable": "117,087 seedlings of 41 native species",
+                        "achievable": "Quality analysis of each batch of fruits, seeds and germination percentage",
+                        "relevant": "native species of the tropical dry forest",
+                        "time": "in 12 months"
+                    }
+                }
+            ],
+            "new_percent": 100.0,
+            "repeated_percent": 0.0,
+            "smart_percent": 12.5
+        }
+    },
+    "VODAFONE GROUP PLC": {
+        "done": {
+            "new": 1,
+            "repeated": 0,
+            "repeated_details": [],
+            "new_percent": 100.0,
+            "repeated_percent": 0.0
+        },
+        "planned": {
+            "new": 0,
+            "repeated": 0,
+            "repeated_details": [],
+            "smart_count": 0,
+            "smart_statements_details": [],
+            "new_percent": 0.0,
+            "repeated_percent": 0.0,
+            "smart_percent": 0.0
+        }
+    },
+    "ELIS SA": {
+        "done": {
+            "new": 7,
+            "repeated": 0,
+            "repeated_details": [],
+            "new_percent": 100.0,
+            "repeated_percent": 0.0
+        },
+        "planned": {
+            "new": 0,
+            "repeated": 0,
+            "repeated_details": [],
+            "smart_count": 0,
+            "smart_statements_details": [],
+            "new_percent": 0.0,
+            "repeated_percent": 0.0,
+            "smart_percent": 0.0
+        }
+    },
+    "NEXANS SA": {
+        "done": {
+            "new": 3,
+            "repeated": 0,
+            "repeated_details": [],
+            "new_percent": 100.0,
+            "repeated_percent": 0.0
+        },
+        "planned": {
+            "new": 0,
+            "repeated": 0,
+            "repeated_details": [],
+            "smart_count": 0,
+            "smart_statements_details": [],
+            "new_percent": 0.0,
+            "repeated_percent": 0.0,
+            "smart_percent": 0.0
+        }
+    },
+    "CASTELLUM AB": {
+        "done": {
+            "new": 0,
+            "repeated": 0,
+            "repeated_details": [],
+            "new_percent": 0.0,
+            "repeated_percent": 0.0
+        },
+        "planned": {
+            "new": 2,
+            "repeated": 0,
+            "repeated_details": [],
+            "smart_count": 0,
+            "smart_statements_details": [],
+            "new_percent": 100.0,
+            "repeated_percent": 0.0,
+            "smart_percent": 0.0
+        }
+    },
+    "GLANBIA PLC": {
+        "done": {
+            "new": 1,
+            "repeated": 0,
+            "repeated_details": [],
+            "new_percent": 100.0,
+            "repeated_percent": 0.0
+        },
+        "planned": {
+            "new": 0,
+            "repeated": 0,
+            "repeated_details": [],
+            "smart_count": 0,
+            "smart_statements_details": [],
+            "new_percent": 0.0,
+            "repeated_percent": 0.0,
+            "smart_percent": 0.0
+        }
+    },
+    "SHELL PLC": {
+        "done": {
+            "new": 30,
+            "repeated": 0,
+            "repeated_details": [],
+            "new_percent": 100.0,
+            "repeated_percent": 0.0
+        },
+        "planned": {
+            "new": 6,
+            "repeated": 0,
+            "repeated_details": [],
+            "smart_count": 0,
+            "smart_statements_details": [],
+            "new_percent": 100.0,
+            "repeated_percent": 0.0,
+            "smart_percent": 0.0
+        }
+    },
+    "E.ON SE": {
+        "done": {
+            "new": 6,
+            "repeated": 0,
+            "repeated_details": [],
+            "new_percent": 100.0,
+            "repeated_percent": 0.0
+        },
+        "planned": {
+            "new": 1,
+            "repeated": 0,
+            "repeated_details": [],
+            "smart_count": 0,
+            "smart_statements_details": [],
+            "new_percent": 100.0,
+            "repeated_percent": 0.0,
+            "smart_percent": 0.0
+        }
+    },
+    "UNIVERSAL MUSIC GROUP NV": {
+        "done": {
+            "new": 12,
+            "repeated": 0,
+            "repeated_details": [],
+            "new_percent": 100.0,
+            "repeated_percent": 0.0
+        },
+        "planned": {
+            "new": 0,
+            "repeated": 0,
+            "repeated_details": [],
+            "smart_count": 0,
+            "smart_statements_details": [],
+            "new_percent": 0.0,
+            "repeated_percent": 0.0,
+            "smart_percent": 0.0
+        }
+    },
+    "CAPGEMINI SE": {
+        "done": {
+            "new": 2,
+            "repeated": 0,
+            "repeated_details": [],
+            "new_percent": 100.0,
+            "repeated_percent": 0.0
+        },
+        "planned": {
+            "new": 0,
+            "repeated": 0,
+            "repeated_details": [],
+            "smart_count": 0,
+            "smart_statements_details": [],
+            "new_percent": 0.0,
+            "repeated_percent": 0.0,
+            "smart_percent": 0.0
+        }
+    },
+    "BUZZI SPA": {
+        "done": {
+            "new": 1,
+            "repeated": 0,
+            "repeated_details": [],
+            "new_percent": 100.0,
+            "repeated_percent": 0.0
+        },
+        "planned": {
+            "new": 1,
+            "repeated": 0,
+            "repeated_details": [],
+            "smart_count": 0,
+            "smart_statements_details": [],
+            "new_percent": 100.0,
+            "repeated_percent": 0.0,
+            "smart_percent": 0.0
+        }
+    },
+    "GEA GROUP AG": {
+        "done": {
+            "new": 0,
+            "repeated": 0,
+            "repeated_details": [],
+            "new_percent": 0.0,
+            "repeated_percent": 0.0
+        },
+        "planned": {
+            "new": 1,
+            "repeated": 0,
+            "repeated_details": [],
+            "smart_count": 0,
+            "smart_statements_details": [],
+            "new_percent": 100.0,
+            "repeated_percent": 0.0,
+            "smart_percent": 0.0
+        }
+    },
+    "JD SPORTS FASHION PLC": {
+        "done": {
+            "new": 3,
+            "repeated": 0,
+            "repeated_details": [],
+            "new_percent": 100.0,
+            "repeated_percent": 0.0
+        },
+        "planned": {
+            "new": 0,
+            "repeated": 0,
+            "repeated_details": [],
+            "smart_count": 0,
+            "smart_statements_details": [],
+            "new_percent": 0.0,
+            "repeated_percent": 0.0,
+            "smart_percent": 0.0
+        }
+    },
+    "AXFOOD AB": {
+        "done": {
+            "new": 1,
+            "repeated": 0,
+            "repeated_details": [],
+            "new_percent": 100.0,
+            "repeated_percent": 0.0
+        },
+        "planned": {
+            "new": 0,
+            "repeated": 0,
+            "repeated_details": [],
+            "smart_count": 0,
+            "smart_statements_details": [],
+            "new_percent": 0.0,
+            "repeated_percent": 0.0,
+            "smart_percent": 0.0
+        }
+    },
+    "SIEMENS ENERGY AG": {
+        "done": {
+            "new": 6,
+            "repeated": 0,
+            "repeated_details": [],
+            "new_percent": 100.0,
+            "repeated_percent": 0.0
+        },
+        "planned": {
+            "new": 0,
+            "repeated": 0,
+            "repeated_details": [],
+            "smart_count": 0,
+            "smart_statements_details": [],
+            "new_percent": 0.0,
+            "repeated_percent": 0.0,
+            "smart_percent": 0.0
+        }
+    },
+    "BUCHER INDUSTRIES AG REG": {
+        "done": {
+            "new": 1,
+            "repeated": 0,
+            "repeated_details": [],
+            "new_percent": 100.0,
+            "repeated_percent": 0.0
+        },
+        "planned": {
+            "new": 0,
+            "repeated": 0,
+            "repeated_details": [],
+            "smart_count": 0,
+            "smart_statements_details": [],
+            "new_percent": 0.0,
+            "repeated_percent": 0.0,
+            "smart_percent": 0.0
+        }
+    },
+    "BAKKAFROST P/F": {
+        "done": {
+            "new": 22,
+            "repeated": 0,
+            "repeated_details": [],
+            "new_percent": 100.0,
+            "repeated_percent": 0.0
+        },
+        "planned": {
+            "new": 6,
+            "repeated": 0,
+            "repeated_details": [],
+            "smart_count": 0,
+            "smart_statements_details": [],
+            "new_percent": 100.0,
+            "repeated_percent": 0.0,
+            "smart_percent": 0.0
+        }
+    },
+    "EPIROC AB A": {
+        "done": {
+            "new": 1,
+            "repeated": 0,
+            "repeated_details": [],
+            "new_percent": 100.0,
+            "repeated_percent": 0.0
+        },
+        "planned": {
+            "new": 0,
+            "repeated": 0,
+            "repeated_details": [],
+            "smart_count": 0,
+            "smart_statements_details": [],
+            "new_percent": 0.0,
+            "repeated_percent": 0.0,
+            "smart_percent": 0.0
+        }
+    },
+    "HENKEL AG + CO KGAA VOR PREF": {
+        "done": {
+            "new": 5,
+            "repeated": 0,
+            "repeated_details": [],
+            "new_percent": 100.0,
+            "repeated_percent": 0.0
+        },
+        "planned": {
+            "new": 2,
+            "repeated": 0,
+            "repeated_details": [],
+            "smart_count": 1,
+            "smart_statements_details": [
+                {
+                    "statement": "We aim to use 100 percent recycled paper and cardboard material or, where necessary, fresh fiber originating from sustainable forestry, to contribute to zero net deforestation by 2020.",
+                    "analysis": {
+                        "smart": true,
+                        "specific": "use 100 percent recycled paper and cardboard material or, where necessary, fresh fiber originating from sustainable forestry",
+                        "measurable": "100 percent",
+                        "achievable": "use 100 percent recycled paper and cardboard material or, where necessary, fresh fiber originating from sustainable forestry",
+                        "relevant": "to contribute to zero net deforestation",
+                        "time": "by 2020"
+                    }
+                }
+            ],
+            "new_percent": 100.0,
+            "repeated_percent": 0.0,
+            "smart_percent": 50.0
+        }
+    },
+    "NESTLE SA REG": {
+        "done": {
+            "new": 11,
+            "repeated": 0,
+            "repeated_details": [],
+            "new_percent": 100.0,
+            "repeated_percent": 0.0
+        },
+        "planned": {
+            "new": 2,
+            "repeated": 0,
+            "repeated_details": [],
+            "smart_count": 0,
+            "smart_statements_details": [],
+            "new_percent": 100.0,
+            "repeated_percent": 0.0,
+            "smart_percent": 0.0
+        }
+    },
+    "SWECO AB B SHS": {
+        "done": {
+            "new": 2,
+            "repeated": 0,
+            "repeated_details": [],
+            "new_percent": 100.0,
+            "repeated_percent": 0.0
+        },
+        "planned": {
+            "new": 0,
+            "repeated": 0,
+            "repeated_details": [],
+            "smart_count": 0,
+            "smart_statements_details": [],
+            "new_percent": 0.0,
+            "repeated_percent": 0.0,
+            "smart_percent": 0.0
+        }
+    },
+    "DANSKE BANK A/S": {
+        "done": {
+            "new": 1,
+            "repeated": 0,
+            "repeated_details": [],
+            "new_percent": 100.0,
+            "repeated_percent": 0.0
+        },
+        "planned": {
+            "new": 0,
+            "repeated": 0,
+            "repeated_details": [],
+            "smart_count": 0,
+            "smart_statements_details": [],
+            "new_percent": 0.0,
+            "repeated_percent": 0.0,
+            "smart_percent": 0.0
+        }
+    },
+    "SIEGFRIED HOLDING AG REG": {
+        "done": {
+            "new": 5,
+            "repeated": 0,
+            "repeated_details": [],
+            "new_percent": 100.0,
+            "repeated_percent": 0.0
+        },
+        "planned": {
+            "new": 0,
+            "repeated": 0,
+            "repeated_details": [],
+            "smart_count": 0,
+            "smart_statements_details": [],
+            "new_percent": 0.0,
+            "repeated_percent": 0.0,
+            "smart_percent": 0.0
+        }
+    },
+    "DEUTSCHE TELEKOM AG REG": {
+        "done": {
+            "new": 5,
+            "repeated": 0,
+            "repeated_details": [],
+            "new_percent": 100.0,
+            "repeated_percent": 0.0
+        },
+        "planned": {
+            "new": 0,
+            "repeated": 0,
+            "repeated_details": [],
+            "smart_count": 0,
+            "smart_statements_details": [],
+            "new_percent": 0.0,
+            "repeated_percent": 0.0,
+            "smart_percent": 0.0
+        }
+    },
+    "AP MOLLER MAERSK A/S B": {
+        "done": {
+            "new": 3,
+            "repeated": 0,
+            "repeated_details": [],
+            "new_percent": 100.0,
+            "repeated_percent": 0.0
+        },
+        "planned": {
+            "new": 0,
+            "repeated": 0,
+            "repeated_details": [],
+            "smart_count": 0,
+            "smart_statements_details": [],
+            "new_percent": 0.0,
+            "repeated_percent": 0.0,
+            "smart_percent": 0.0
+        }
+    },
+    "COCA COLA HBC AG DI": {
+        "done": {
+            "new": 4,
+            "repeated": 0,
+            "repeated_details": [],
+            "new_percent": 100.0,
+            "repeated_percent": 0.0
+        },
+        "planned": {
+            "new": 0,
+            "repeated": 0,
+            "repeated_details": [],
+            "smart_count": 0,
+            "smart_statements_details": [],
+            "new_percent": 0.0,
+            "repeated_percent": 0.0,
+            "smart_percent": 0.0
+        }
+    },
+    "DEUTSCHE BANK AG REGISTERED": {
+        "done": {
+            "new": 1,
+            "repeated": 0,
+            "repeated_details": [],
+            "new_percent": 100.0,
+            "repeated_percent": 0.0
+        },
+        "planned": {
+            "new": 0,
+            "repeated": 0,
+            "repeated_details": [],
+            "smart_count": 0,
+            "smart_statements_details": [],
+            "new_percent": 0.0,
+            "repeated_percent": 0.0,
+            "smart_percent": 0.0
+        }
+    },
+    "FORTUM OYJ": {
+        "done": {
+            "new": 29,
+            "repeated": 0,
+            "repeated_details": [],
+            "new_percent": 100.0,
+            "repeated_percent": 0.0
+        },
+        "planned": {
+            "new": 4,
+            "repeated": 0,
+            "repeated_details": [],
+            "smart_count": 0,
+            "smart_statements_details": [],
+            "new_percent": 100.0,
+            "repeated_percent": 0.0,
+            "smart_percent": 0.0
+        }
+    },
+    "GEBERIT AG REG": {
+        "done": {
+            "new": 1,
+            "repeated": 0,
+            "repeated_details": [],
+            "new_percent": 100.0,
+            "repeated_percent": 0.0
+        },
+        "planned": {
+            "new": 0,
+            "repeated": 0,
+            "repeated_details": [],
+            "smart_count": 0,
+            "smart_statements_details": [],
+            "new_percent": 0.0,
+            "repeated_percent": 0.0,
+            "smart_percent": 0.0
+        }
+    },
+    "SWISS LIFE HOLDING AG REG": {
+        "done": {
+            "new": 1,
+            "repeated": 0,
+            "repeated_details": [],
+            "new_percent": 100.0,
+            "repeated_percent": 0.0
+        },
+        "planned": {
+            "new": 0,
+            "repeated": 0,
+            "repeated_details": [],
+            "smart_count": 0,
+            "smart_statements_details": [],
+            "new_percent": 0.0,
+            "repeated_percent": 0.0,
+            "smart_percent": 0.0
+        }
+    },
+    "MERCK KGAA": {
+        "done": {
+            "new": 10,
+            "repeated": 0,
+            "repeated_details": [],
+            "new_percent": 100.0,
+            "repeated_percent": 0.0
+        },
+        "planned": {
+            "new": 4,
+            "repeated": 0,
+            "repeated_details": [],
+            "smart_count": 0,
+            "smart_statements_details": [],
+            "new_percent": 100.0,
+            "repeated_percent": 0.0,
+            "smart_percent": 0.0
+        }
+    },
+    "HUSQVARNA AB B SHS": {
+        "done": {
+            "new": 9,
+            "repeated": 0,
+            "repeated_details": [],
+            "new_percent": 100.0,
+            "repeated_percent": 0.0
+        },
+        "planned": {
+            "new": 2,
+            "repeated": 0,
+            "repeated_details": [],
+            "smart_count": 0,
+            "smart_statements_details": [],
+            "new_percent": 100.0,
+            "repeated_percent": 0.0,
+            "smart_percent": 0.0
+        }
+    },
+    "KESKO OYJ B SHS": {
+        "done": {
+            "new": 14,
+            "repeated": 0,
+            "repeated_details": [],
+            "new_percent": 100.0,
+            "repeated_percent": 0.0
+        },
+        "planned": {
+            "new": 3,
+            "repeated": 0,
+            "repeated_details": [],
+            "smart_count": 2,
+            "smart_statements_details": [
+                {
+                    "statement": "We will remove  at least 50 barriers preventing endangered migratory fish from  swimming upstream and create at least 100 spawning grounds in  Finland between 2017 and 2021.",
+                    "analysis": {
+                        "smart": true,
+                        "specific": "remove at least 50 barriers preventing endangered migratory fish from swimming upstream and create at least 100 spawning grounds",
+                        "measurable": "at least 50 barriers",
+                        "achievable": "remove at least 50 barriers preventing endangered migratory fish from swimming upstream and create at least 100 spawning grounds",
+                        "relevant": "endangered migratory fish from swimming upstream",
+                        "time": "between 2017 and 2021"
+                    }
+                },
+                {
+                    "statement": "We will remove  at least 50 barriers preventing endangered migratory fish from  swimming upstream and create at least 100 spawning grounds in  Finland between 2017 and 2021.",
+                    "analysis": {
+                        "smart": true,
+                        "specific": "remove at least 50 barriers preventing endangered migratory fish from swimming upstream and create at least 100 spawning grounds",
+                        "measurable": "at least 50 barriers",
+                        "achievable": "remove at least 50 barriers preventing endangered migratory fish from swimming upstream and create at least 100 spawning grounds",
+                        "relevant": "preventing endangered migratory fish from swimming upstream",
+                        "time": "between 2017 and 2021"
+                    }
+                }
+            ],
+            "new_percent": 100.0,
+            "repeated_percent": 0.0,
+            "smart_percent": 66.67
+        }
+    },
+    "STORA ENSO OYJ R SHS": {
+        "done": {
+            "new": 41,
+            "repeated": 0,
+            "repeated_details": [],
+            "new_percent": 100.0,
+            "repeated_percent": 0.0
+        },
+        "planned": {
+            "new": 5,
+            "repeated": 0,
+            "repeated_details": [],
+            "smart_count": 1,
+            "smart_statements_details": [
+                {
+                    "statement": "Veracel aims to restore approximately 400 hectares of rainforest habitat every year by planting native species.",
+                    "analysis": {
+                        "smart": true,
+                        "specific": "restore approximately 400 hectares of rainforest habitat",
+                        "measurable": "approximately 400 hectares",
+                        "achievable": "planting native species",
+                        "relevant": "rainforest habitat",
+                        "time": "every year"
+                    }
+                }
+            ],
+            "new_percent": 100.0,
+            "repeated_percent": 0.0,
+            "smart_percent": 20.0
+        }
+    },
+    "UBS GROUP AG REG": {
+        "done": {
+            "new": 2,
+            "repeated": 0,
+            "repeated_details": [],
+            "new_percent": 100.0,
+            "repeated_percent": 0.0
+        },
+        "planned": {
+            "new": 0,
+            "repeated": 0,
+            "repeated_details": [],
+            "smart_count": 0,
+            "smart_statements_details": [],
+            "new_percent": 0.0,
+            "repeated_percent": 0.0,
+            "smart_percent": 0.0
+        }
+    },
+    "KEMIRA OYJ": {
+        "done": {
+            "new": 2,
+            "repeated": 0,
+            "repeated_details": [],
+            "new_percent": 100.0,
+            "repeated_percent": 0.0
+        },
+        "planned": {
+            "new": 0,
+            "repeated": 0,
+            "repeated_details": [],
+            "smart_count": 0,
+            "smart_statements_details": [],
+            "new_percent": 0.0,
+            "repeated_percent": 0.0,
+            "smart_percent": 0.0
+        }
+    },
+    "CLARIANT AG REG": {
+        "done": {
+            "new": 19,
+            "repeated": 0,
+            "repeated_details": [],
+            "new_percent": 100.0,
+            "repeated_percent": 0.0
+        },
+        "planned": {
+            "new": 0,
+            "repeated": 0,
+            "repeated_details": [],
+            "smart_count": 0,
+            "smart_statements_details": [],
+            "new_percent": 0.0,
+            "repeated_percent": 0.0,
+            "smart_percent": 0.0
+        }
+    },
+    "UNIBAIL RODAMCO WESTFIELD": {
+        "done": {
+            "new": 26,
+            "repeated": 0,
+            "repeated_details": [],
+            "new_percent": 100.0,
+            "repeated_percent": 0.0
+        },
+        "planned": {
+            "new": 12,
+            "repeated": 0,
+            "repeated_details": [],
+            "smart_count": 3,
+            "smart_statements_details": [
+                {
+                    "statement": "NEW 100% development projects to implement a biodiversity action plan by 2022.",
+                    "analysis": {
+                        "smart": true,
+                        "specific": "100% development projects to implement a biodiversity action plan",
+                        "measurable": "100%",
+                        "achievable": "NEW development projects to implement a biodiversity action plan",
+                        "relevant": "biodiversity action plan",
+                        "time": "by 2022"
+                    }
+                },
+                {
+                    "statement": "BREEAM NC 2016: achieve at least 6 credits in the BREEAM land use and ecology Section",
+                    "analysis": {
+                        "smart": true,
+                        "specific": "achieve at least 6 credits in the BREEAM land use and ecology Section",
+                        "measurable": "at least 6 credits",
+                        "achievable": "achieve",
+                        "relevant": "land use and ecology Section",
+                        "time": "BREEAM NC 2016"
+                    }
+                },
+                {
+                    "statement": "This translates into the objectives to have 100% of its development projects, and 100% of its standing assets with high biodiversity stakes, to implement a biodiversity action plan by 2022.",
+                    "analysis": {
+                        "smart": true,
+                        "specific": "have 100% of its development projects, and 100% of its standing assets with high biodiversity stakes, to implement a biodiversity action plan",
+                        "measurable": "100%",
+                        "achievable": "implement a biodiversity action plan",
+                        "relevant": "biodiversity stakes",
+                        "time": "by 2022"
+                    }
+                }
+            ],
+            "new_percent": 100.0,
+            "repeated_percent": 0.0,
+            "smart_percent": 25.0
+        }
+    },
+    "BARRY CALLEBAUT AG REG": {
+        "done": {
+            "new": 6,
+            "repeated": 0,
+            "repeated_details": [],
+            "new_percent": 100.0,
+            "repeated_percent": 0.0
+        },
+        "planned": {
+            "new": 0,
+            "repeated": 0,
+            "repeated_details": [],
+            "smart_count": 0,
+            "smart_statements_details": [],
+            "new_percent": 0.0,
+            "repeated_percent": 0.0,
+            "smart_percent": 0.0
+        }
+    },
+    "SWISS RE AG": {
+        "done": {
+            "new": 1,
+            "repeated": 0,
+            "repeated_details": [],
+            "new_percent": 100.0,
+            "repeated_percent": 0.0
+        },
+        "planned": {
+            "new": 0,
+            "repeated": 0,
+            "repeated_details": [],
+            "smart_count": 0,
+            "smart_statements_details": [],
+            "new_percent": 0.0,
+            "repeated_percent": 0.0,
+            "smart_percent": 0.0
+        }
+    },
+    "HUHTAMAKI OYJ": {
+        "done": {
+            "new": 3,
+            "repeated": 0,
+            "repeated_details": [],
+            "new_percent": 100.0,
+            "repeated_percent": 0.0
+        },
+        "planned": {
+            "new": 1,
+            "repeated": 0,
+            "repeated_details": [],
+            "smart_count": 0,
+            "smart_statements_details": [],
+            "new_percent": 100.0,
+            "repeated_percent": 0.0,
+            "smart_percent": 0.0
+        }
+    },
+    "ASSA ABLOY AB B": {
+        "done": {
+            "new": 3,
+            "repeated": 0,
+            "repeated_details": [],
+            "new_percent": 100.0,
+            "repeated_percent": 0.0
+        },
+        "planned": {
+            "new": 0,
+            "repeated": 0,
+            "repeated_details": [],
+            "smart_count": 0,
+            "smart_statements_details": [],
+            "new_percent": 0.0,
+            "repeated_percent": 0.0,
+            "smart_percent": 0.0
+        }
+    },
+    "LVMH MOET HENNESSY LOUIS VUI": {
+        "done": {
+            "new": 67,
+            "repeated": 0,
+            "repeated_details": [],
+            "new_percent": 100.0,
+            "repeated_percent": 0.0
+        },
+        "planned": {
+            "new": 14,
+            "repeated": 0,
+            "repeated_details": [],
+            "smart_count": 2,
+            "smart_statements_details": [
+                {
+                    "statement": "Our Champagne Maisons announced they would stop using chemical weedkiller at all their vineyards by 2020.",
+                    "analysis": {
+                        "smart": true,
+                        "specific": "stop using chemical weedkiller",
+                        "measurable": "all their vineyards",
+                        "achievable": "announced they would stop",
+                        "relevant": "chemical weedkiller",
+                        "time": "by 2020"
+                    }
+                },
+                {
+                    "statement": "At the end of the five year project, 88 beekeepers will have been trained in 44 UNESCO biosphere reserves.",
+                    "analysis": {
+                        "smart": true,
+                        "specific": "88 beekeepers will have been trained in 44 UNESCO biosphere reserves.",
+                        "measurable": "88 beekeepers",
+                        "achievable": "88 beekeepers will have been trained",
+                        "relevant": "trained in 44 UNESCO biosphere reserves",
+                        "time": "At the end of the five year project"
+                    }
+                }
+            ],
+            "new_percent": 100.0,
+            "repeated_percent": 0.0,
+            "smart_percent": 14.29
+        }
+    },
+    "NOVARTIS AG REG": {
+        "done": {
+            "new": 7,
+            "repeated": 0,
+            "repeated_details": [],
+            "new_percent": 100.0,
+            "repeated_percent": 0.0
+        },
+        "planned": {
+            "new": 0,
+            "repeated": 0,
+            "repeated_details": [],
+            "smart_count": 0,
+            "smart_statements_details": [],
+            "new_percent": 0.0,
+            "repeated_percent": 0.0,
+            "smart_percent": 0.0
+        }
+    },
+    "NOVONESIS (NOVOZYMES) B": {
+        "done": {
+            "new": 1,
+            "repeated": 0,
+            "repeated_details": [],
+            "new_percent": 100.0,
+            "repeated_percent": 0.0
+        },
+        "planned": {
+            "new": 0,
+            "repeated": 0,
+            "repeated_details": [],
+            "smart_count": 0,
+            "smart_statements_details": [],
+            "new_percent": 0.0,
+            "repeated_percent": 0.0,
+            "smart_percent": 0.0
+        }
+    },
+    "KONE OYJ B": {
+        "done": {
+            "new": 1,
+            "repeated": 0,
+            "repeated_details": [],
+            "new_percent": 100.0,
+            "repeated_percent": 0.0
+        },
+        "planned": {
+            "new": 0,
+            "repeated": 0,
+            "repeated_details": [],
+            "smart_count": 0,
+            "smart_statements_details": [],
+            "new_percent": 0.0,
+            "repeated_percent": 0.0,
+            "smart_percent": 0.0
+        }
+    },
+    "ABB LTD REG": {
+        "done": {
+            "new": 0,
+            "repeated": 0,
+            "repeated_details": [],
+            "new_percent": 0.0,
+            "repeated_percent": 0.0
+        },
+        "planned": {
+            "new": 1,
+            "repeated": 0,
+            "repeated_details": [],
+            "smart_count": 0,
+            "smart_statements_details": [],
+            "new_percent": 100.0,
+            "repeated_percent": 0.0,
+            "smart_percent": 0.0
+        }
+    },
+    "COVESTRO AG TEND": {
+        "done": {
+            "new": 1,
+            "repeated": 0,
+            "repeated_details": [],
+            "new_percent": 100.0,
+            "repeated_percent": 0.0
+        },
+        "planned": {
+            "new": 0,
+            "repeated": 0,
+            "repeated_details": [],
+            "smart_count": 0,
+            "smart_statements_details": [],
+            "new_percent": 0.0,
+            "repeated_percent": 0.0,
+            "smart_percent": 0.0
+        }
+    },
+    "NESTE OYJ": {
+        "done": {
+            "new": 1,
+            "repeated": 0,
+            "repeated_details": [],
+            "new_percent": 100.0,
+            "repeated_percent": 0.0
+        },
+        "planned": {
+            "new": 2,
+            "repeated": 0,
+            "repeated_details": [],
+            "smart_count": 0,
+            "smart_statements_details": [],
+            "new_percent": 100.0,
+            "repeated_percent": 0.0,
+            "smart_percent": 0.0
+        }
+    },
+    "PUIG BRANDS SA B": {
+        "done": {
+            "new": 3,
+            "repeated": 0,
+            "repeated_details": [],
+            "new_percent": 100.0,
+            "repeated_percent": 0.0
+        },
+        "planned": {
+            "new": 0,
+            "repeated": 0,
+            "repeated_details": [],
+            "smart_count": 0,
+            "smart_statements_details": [],
+            "new_percent": 0.0,
+            "repeated_percent": 0.0,
+            "smart_percent": 0.0
+        }
+    },
+    "ATLAS COPCO AB A SHS": {
+        "done": {
+            "new": 1,
+            "repeated": 0,
+            "repeated_details": [],
+            "new_percent": 100.0,
+            "repeated_percent": 0.0
+        },
+        "planned": {
+            "new": 0,
+            "repeated": 0,
+            "repeated_details": [],
+            "smart_count": 0,
+            "smart_statements_details": [],
+            "new_percent": 0.0,
+            "repeated_percent": 0.0,
+            "smart_percent": 0.0
+        }
+    },
+    "SGS SA REG": {
+        "done": {
+            "new": 4,
+            "repeated": 0,
+            "repeated_details": [],
+            "new_percent": 100.0,
+            "repeated_percent": 0.0
+        },
+        "planned": {
+            "new": 0,
+            "repeated": 0,
+            "repeated_details": [],
+            "smart_count": 0,
+            "smart_statements_details": [],
+            "new_percent": 0.0,
+            "repeated_percent": 0.0,
+            "smart_percent": 0.0
+        }
+    },
+    "SIEMENS AG REG": {
+        "done": {
+            "new": 6,
+            "repeated": 0,
+            "repeated_details": [],
+            "new_percent": 100.0,
+            "repeated_percent": 0.0
+        },
+        "planned": {
+            "new": 0,
+            "repeated": 0,
+            "repeated_details": [],
+            "smart_count": 0,
+            "smart_statements_details": [],
+            "new_percent": 0.0,
+            "repeated_percent": 0.0,
+            "smart_percent": 0.0
+        }
+    },
+    "GN STORE NORD A/S": {
+        "done": {
+            "new": 1,
+            "repeated": 0,
+            "repeated_details": [],
+            "new_percent": 100.0,
+            "repeated_percent": 0.0
+        },
+        "planned": {
+            "new": 2,
+            "repeated": 0,
+            "repeated_details": [],
+            "smart_count": 0,
+            "smart_statements_details": [],
+            "new_percent": 100.0,
+            "repeated_percent": 0.0,
+            "smart_percent": 0.0
+        }
+    }
+}
