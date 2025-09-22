@@ -51,84 +51,84 @@ def main():
     
 # ========= Actions Identifikation  =========
 # > Beginne mit Identifikation relevanter Stellen (+/- 5 Sätze) anhand von Keywords
-#     print(">>>> Starte mit text_extraction <<<<< ")
-#     text_extraction (input_ordner, text_passages_ordner, ocr_verwenden)
-# # > Prüfe, ob innerhalb der Stellen, wo die Keywords stehen, auch Maßnahmen oder Metriken bzgl BioDiv genannt werden, oder ob nur das Keyword genannt wird. Wenn ja, gib die Action/Metric +/- 2 Sätze zurück (5 Sätze insg.).
-#     print(">>>> Starte mit text_validation_gemini <<<<< ")
-#     text_validation_gemini(text_passages_ordner,relevant_text_passages_ordner)
-# # > Entfernt alle nicht mehr relevanten Textpassagen.
-#     print(">>>> Starte mit bereinige_leere_passagen <<<<< ")
-#     bereinige_leere_passagen(relevant_text_passages_ordner)
-# # > Sucht nach Actions / Metrics innerhalb jeder Passage. Rückgabe nur ein Satz.
-#     print(">>>> Starte mit extract_details_from_passages <<<<< ")
-#     extract_details_from_passages(relevant_text_passages_ordner)
-# # > Entfernt doppelte Einträge
-#     print(">>>> Starte mit deduplicate_globally_per_file <<<<< ")
-#     deduplicate_globally_per_file(relevant_text_passages_ordner)
-# # > Fasse die relevanten Aktionen / Metriken zusammen
-#     summarize_actions_and_metrics(relevant_text_passages_ordner, )
-# # ======= Ende Actions Identifikation  =======
+    print(">>>> Starte mit text_extraction <<<<< ")
+    text_extraction (input_ordner, text_passages_ordner, ocr_verwenden)
+# > Prüfe, ob innerhalb der Stellen, wo die Keywords stehen, auch Maßnahmen oder Metriken bzgl BioDiv genannt werden, oder ob nur das Keyword genannt wird. Wenn ja, gib die Action/Metric +/- 2 Sätze zurück (5 Sätze insg.).
+    print(">>>> Starte mit text_validation_gemini <<<<< ")
+    text_validation_gemini(text_passages_ordner,relevant_text_passages_ordner)
+# > Entfernt alle nicht mehr relevanten Textpassagen.
+    print(">>>> Starte mit bereinige_leere_passagen <<<<< ")
+    bereinige_leere_passagen(relevant_text_passages_ordner)
+# > Sucht nach Actions / Metrics innerhalb jeder Passage. Rückgabe nur ein Satz.
+    print(">>>> Starte mit extract_details_from_passages <<<<< ")
+    extract_details_from_passages(relevant_text_passages_ordner)
+# > Entfernt doppelte Einträge
+    print(">>>> Starte mit deduplicate_globally_per_file <<<<< ")
+    deduplicate_globally_per_file(relevant_text_passages_ordner)
+# > Fasse die relevanten Aktionen / Metriken zusammen
+    summarize_actions_and_metrics(relevant_text_passages_ordner, )
+# ======= Ende Actions Identifikation  =======
 
 
    
     
-# # ========= Clustering LDA  =========
-#     fuehre_lda_analyse_durch(input_ordner=relevant_text_passages_ordner, speicherordner="text_passages/analyse/LDA/fulltext")
-#     name_lda_clusters ("text_passages/analyse/LDA/fulltext/LDA/lda_themen_report.xlsx", "text_passages/analyse/LDA/fulltext/LDA/")
-#     enrich_report_with_metadata("text_passages/analyse/LDA/fulltext/LDA/clusters_final.xlsx","matching/sample_summary.xlsx", "text_passages/analyse/LDA/fulltext/LDA/" )
-#     erstelle_unternehmens_analyse(angereicherter_report_pfad="text_passages/analyse/LDA/finaler_report_angereichert.xlsx", output_ordner="text_passages/analyse/LDA")
-# # ======= ENDE LDA Clustering ========
+# ========= Clustering LDA  =========
+    fuehre_lda_analyse_durch(input_ordner=relevant_text_passages_ordner, speicherordner="text_passages/analyse/LDA/fulltext")
+    name_lda_clusters ("text_passages/analyse/LDA/fulltext/LDA/lda_themen_report.xlsx", "text_passages/analyse/LDA/fulltext/LDA/")
+    enrich_report_with_metadata("text_passages/analyse/LDA/fulltext/LDA/clusters_final.xlsx","matching/sample_summary.xlsx", "text_passages/analyse/LDA/fulltext/LDA/" )
+    erstelle_unternehmens_analyse(angereicherter_report_pfad="text_passages/analyse/LDA/finaler_report_angereichert.xlsx", output_ordner="text_passages/analyse/LDA")
+# ======= ENDE LDA Clustering ========
 
 
-# # ========= Clustering mit AI =========
-#     print(">>>> Starte mit fuehre_top_down_klassifizierung_durch <<<<< ")
-#     fuehre_top_down_klassifizierung_durch(relevant_text_passages_ordner, "matching/sample_summary.xlsx", "text_passages/analyse/AI")
-#     final_report_path = "text_passages/analyse/AI/Top_Down_Analyse/top_down_klassifizierungs_report.xlsx"
-#     behebe_zuordnungsfehler(report_path=final_report_path, summary_path="matching/sample_summary.xlsx")
-# # ========= ENDE AI Clustering ========
+# ========= Clustering mit AI =========
+    print(">>>> Starte mit fuehre_top_down_klassifizierung_durch <<<<< ")
+    fuehre_top_down_klassifizierung_durch(relevant_text_passages_ordner, "matching/sample_summary.xlsx", "text_passages/analyse/AI")
+    final_report_path = "text_passages/analyse/AI/Top_Down_Analyse/top_down_klassifizierungs_report.xlsx"
+    behebe_zuordnungsfehler(report_path=final_report_path, summary_path="matching/sample_summary.xlsx")
+# ========= ENDE AI Clustering ========
 
 
-# # ========= Hugging Face =========
-#     fuehre_zero_shot_klassifizierung_durch(relevant_text_passages_ordner, "matching/sample_summary.xlsx", "text_passages/analyse/ZS")
-# # ====== Ende Hugging Face =======
+# ========= Hugging Face =========
+    fuehre_zero_shot_klassifizierung_durch(relevant_text_passages_ordner, "matching/sample_summary.xlsx", "text_passages/analyse/ZS")
+# ====== Ende Hugging Face =======
 
 
-# # ========= UMAP Clustering =========
-# # > Erstellt Kategorien und Überkategorien für die Actions
-#     fuehre_vollstaendige_analyse_durch(input_ordner=relevant_text_passages_ordner,speicherordner="text_passages/analyse/UMAP/")
-# # > Fasst die Ergebnisse pro Unternehmen zusammen 
-#     erstelle_finalen_report(json_input_ordner=relevant_text_passages_ordner, cluster_ergebnis_xlsx_pfad="text_passages/analyse/UMAP/finaler_report.xlsx", output_ordner="text_passages/analyse/UMAP/" )
-# # > Fasst die Ergebnisse pro Unternehmen zusammen (nicht LDA)
-#     erstelle_finalen_report(json_input_ordner=relevant_text_passages_ordner, cluster_ergebnis_xlsx_pfad="text_passages/analyse/UMAP/finaler_report.xlsx", output_ordner="text_passages/analyse/UMAP/" )
-# # ======  ENDE UMAP Clustering ======
+# ========= UMAP Clustering =========
+# > Erstellt Kategorien und Überkategorien für die Actions
+    fuehre_vollstaendige_analyse_durch(input_ordner=relevant_text_passages_ordner,speicherordner="text_passages/analyse/UMAP/")
+# > Fasst die Ergebnisse pro Unternehmen zusammen 
+    erstelle_finalen_report(json_input_ordner=relevant_text_passages_ordner, cluster_ergebnis_xlsx_pfad="text_passages/analyse/UMAP/finaler_report.xlsx", output_ordner="text_passages/analyse/UMAP/" )
+# > Fasst die Ergebnisse pro Unternehmen zusammen (nicht LDA)
+    erstelle_finalen_report(json_input_ordner=relevant_text_passages_ordner, cluster_ergebnis_xlsx_pfad="text_passages/analyse/UMAP/finaler_report.xlsx", output_ordner="text_passages/analyse/UMAP/" )
+# ======  ENDE UMAP Clustering ======
 
    
 
 
-# # ========= VISUALS & Statistics =========
-#     final_report_path = "text_passages/analyse/AI/Top_Down_Analyse/top_down_klassifizierungs_report.xlsx"
-#     global_summary_output_path = "text_passages/analyse/AI/globaler_summary_report.xlsx"
-#     generate_global_summary(data_path=final_report_path,output_path=global_summary_output_path)
+# ========= VISUALS & Statistics =========
+    final_report_path = "text_passages/analyse/AI/Top_Down_Analyse/top_down_klassifizierungs_report.xlsx"
+    global_summary_output_path = "text_passages/analyse/AI/globaler_summary_report.xlsx"
+    generate_global_summary(data_path=final_report_path,output_path=global_summary_output_path)
 
 
-#     json_output_folder = "text_passages/analyse/AI/JSON_Reports"
-#     print(">>>> Starte mit generate_company_jsons <<<<< ")
-#     generate_company_jsons(data_path=final_report_path,output_folder=json_output_folder)
+    json_output_folder = "text_passages/analyse/AI/JSON_Reports"
+    print(">>>> Starte mit generate_company_jsons <<<<< ")
+    generate_company_jsons(data_path=final_report_path,output_folder=json_output_folder)
 
-#     screenshots_output_folder = "text_passages/analyse/AI/Screenshots"
-#     pdf_reports_folder = "input"
-#     print(">>>> Starte mit generate_screenshots <<<<< ")
-#     generate_screenshots(report_path=final_report_path,pdf_folder=pdf_reports_folder,output_folder=screenshots_output_folder)
-# # ====== Ende VISUALS =======
-
-
+    screenshots_output_folder = "text_passages/analyse/AI/Screenshots"
+    pdf_reports_folder = "input"
+    print(">>>> Starte mit generate_screenshots <<<<< ")
+    generate_screenshots(report_path=final_report_path,pdf_folder=pdf_reports_folder,output_folder=screenshots_output_folder)
+# ====== Ende VISUALS =======
 
 
-# # ========= Berechne Anteile neue / alte Aussagen & SMART Ziele =========
-#     daten_ordner = "matching/aussagen"
-#     ergebnisse_ordner = daten_ordner
-#     analyze_measures_and_smartness(daten_ordner, ergebnisse_ordner)
-# # ====== Ende Berechne Anteile neue / alte Aussagen & SMART Ziele =======
+
+
+# ========= Berechne Anteile neue / alte Aussagen & SMART Ziele =========
+    daten_ordner = "matching/aussagen"
+    ergebnisse_ordner = daten_ordner
+    analyze_measures_and_smartness(daten_ordner, ergebnisse_ordner)
+# ====== Ende Berechne Anteile neue / alte Aussagen & SMART Ziele =======
 
 
 

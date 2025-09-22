@@ -20,7 +20,7 @@ def nltk_setup():
 nltk_setup()
 
 load_dotenv()
-gemini_model_version = "gemini-1.5-flash"
+gemini_model_version = "gemini-2.5-flash-lite"
 CURRENT_STAGE_KEY_GEMINI_VALIDATION = "relevant_text_passages_processing"
 
 try:
