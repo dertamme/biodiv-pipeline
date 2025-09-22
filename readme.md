@@ -1,6 +1,6 @@
 # Analyse-Pipeline für Biodiversitäts-Berichterstattung
 
-Dieses Projekt ist eine umfassende Python-Pipeline zur Analyse von Unternehmensberichten (z. B. Nachhaltigkeits- oder Jahresberichte) auf Inhalte zum Thema Biodiversität. Es automatisiert den Prozess der Identifizierung, Extraktion, Klassifizierung und Analyse von unternehmerischen Maßnahmen und Kennzahlen im Zusammenhang mit der biologischen Vielfalt. Die Pipeline nutzt verschiedene Techniken der Verarbeitung natürlicher Sprache (NLP), einschließlich Keyword-Extraktion, maschinelles Lern-Clustering (LDA, UMAP) und große Sprachmodelle (KI-basierte Klassifizierung).
+Die Pipeline automatisiert den Prozess der Identifizierung, Extraktion, Klassifizierung und Analyse von unternehmerischen Maßnahmen und Kennzahlen im Zusammenhang der bBiodiversität. Die Pipeline nutzt verschiedene Techniken der Verarbeitung natürlicher Sprache (NLP), einschließlich Keyword-Extraktion, maschinelles Lern-Clustering (LDA, UMAP) und große Sprachmodelle (KI-basierte Klassifizierung). Alle Skripte, auch solche welche für das endergebnis nicht weiter verfolgt wurden (z.b. verschiedene Clusterverfahren), sind in dem Projekt vorhanden. 
 
 ---
 
@@ -21,12 +21,13 @@ Das Skript ist als sequentielle Pipeline aufgebaut, bei der die Ausgabe eines Sc
 ## Funktionen
 
 - **Automatisierte PDF-Verarbeitung**: Übernimmt die Textextraktion aus PDF-Dateien, mit einer optionalen OCR-Funktion.
-- **Mehrstufige Filterung**: Ein ausgefeilter Prozess zur Destillation relevanter Informationen, von der groben Keyword-Suche bis zur feingranularen Validierung.
+- **Mehrstufige Filterung**: Prozess zur Destillation relevanter Informationen, von der groben Keyword-Suche bis zur feingranularen Validierung.
 - **Multi-Methoden-Clustering**: Setzt vier verschiedene Techniken für eine robuste und umfassende Analyse ein:
     - **LDA (Latent Dirichlet Allocation)**: Zur Themenmodellierung.
     - **KI-gestützte Klassifizierung**: Ein Top-Down-Ansatz mit fortschrittlicher KI.
     - **Hugging Face Zero-Shot**: Zur Klassifizierung ohne vorheriges Training auf spezifischen Labels.
     - **UMAP**: Zur Dimensionsreduktion und für Bottom-up-Clustering.
+    - **AI Klassifizierung**: Zuordnung der Aussagen durch ein LLM.
 - **Detailliertes Reporting**: Erstellt ausführliche Excel-Berichte, JSON-Dateien für jedes Unternehmen und visuelle Zusammenfassungen.
 - **Screenshot-Erstellung**: Erstellt automatisch Screenshots der originalen Textpassagen aus den Quell-PDFs zur schnellen Überprüfung.
 - **SMART-Ziel-Analyse**: Enthält ein Modul zur Bewertung der Qualität und Spezifität von Unternehmensverpflichtungen.
@@ -35,7 +36,7 @@ Das Skript ist als sequentielle Pipeline aufgebaut, bei der die Ausgabe eines Sc
 
 ## Workflow
 
-Die `main()`-Funktion orchestriert die gesamte Analyse-Pipeline, die in mehrere logische Blöcke unterteilt ist.
+Die `main()`-Funktion (app.py) orchestriert die gesamte Analyse-Pipeline, die in mehrere logische Blöcke unterteilt ist.
 
 ### 1. Einrichtung und Vorbereitung
 - **Verzeichnisinitialisierung**: Erstellt die notwendigen Ordner (`input`, `text_passages`, `analyse` etc.), falls diese noch nicht existieren.
@@ -83,16 +84,16 @@ Die letzte Stufe der Analyse bewertet die extrahierten Unternehmensdarstellungen
 
 ### Voraussetzungen
 - Python 3.x muss installiert sein.
-- Erforderliche Python-Bibliotheken müssen installiert sein. Diese können typischerweise über eine `requirements.txt`-Datei mit `pip install -r requirements.txt` verwaltet werden. Zu den wichtigsten Abhängigkeiten gehören `openai`, `pandas`, `scikit-learn` usw.
-- Eine `.env`-Datei, die notwendige API-Schlüssel (z. B. für OpenAI) enthält.
+- Erforderliche Python-Bibliotheken müssen installiert sein. Diese können über die `requirements.txt`-Datei mit `pip install -r requirements.txt` verwaltet werden. Z
+- Eine `.env`-Datei, die notwendige API-Schlüssel (z. B. für Gemini) enthält.
 - Die Datei `matching/sample_summary.xlsx` muss vorhanden und korrekt formatiert sein.
 
 ### Einrichtung
-1.  **Berichte platzieren**: Legen Sie alle PDF-Berichte, die Sie analysieren möchten, in den `input/`-Ordner.
-2.  **Konfiguration**: Passen Sie bei Bedarf die Parameter und Pfade in der `config.py`-Datei an. Setzen Sie `ocr_verwenden` in `main.py` auf `True` oder `False`, je nachdem, ob Ihre PDFs eine optische Zeichenerkennung (OCR) benötigen.
-3.  **Abhängigkeiten installieren**: Stellen Sie sicher, dass alle erforderlichen Bibliotheken installiert sind.
+1.  **Berichte platzieren**: PDF-Berichte, die analysieren werden sollen, müssen in den `input/`-Ordner.
+2.  **Konfiguration**: Passen Sie bei Bedarf die Parameter und Pfade in der `config.py`-Datei an. Setzen Sie `ocr_verwenden` in `app.py` auf `True` oder `False`, je nachdem, ob die PDFs eine optische Zeichenerkennung (OCR) benötigen (rechenintensiv).
+3.  **Abhängigkeiten installieren**: Sicherstellen, dass alle erforderlichen Bibliotheken installiert sind.
 
 ### Starten
 Um die gesamte Pipeline auszuführen, starten Sie das Skript von Ihrem Terminal aus:
 ```bash
-python ihr_skriptname.py
+python app.py
